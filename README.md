@@ -2,12 +2,11 @@
 > Lending Club Case Study
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-- What is the business probem that your project is trying to solve?
 # General Information
 > This is a Lending Club Case study which uses EDA techniques to forecast whether a loan is likely to be in default or not
 
