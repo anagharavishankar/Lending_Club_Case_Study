@@ -1,6 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
-
+> Lending Club Case Study
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -8,13 +7,18 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
 - What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+# General Information
+> This is a Lending Club Case study which uses EDA techniques to forecast whether a loan is likely to be in default or not
+
+# Background
+>The consumer finance company serves as the largest online loan platform, offering personal, business, and medical financing with easily accessible lower interest rates. Like other lenders, issuing loans to risky applicants is the primary cause of financial loss, termed credit loss, where 'charged-off' borrowers who default cause the most significant loss to lenders. This credit loss results from borrowers refusing to pay or disappearing with owed money, marking them as defaulters.
+
+# Trying to achieve
+> This project aims at mitigating financial loss by utilizing Exploratory Data Analysis techniques to identify key factors driving loan defaults. Exploring how data analysis can reduce and identify risky loan applicants.
+
+# Dataset
+> The dataset utilized is a CSV-formatted loan dataset, with each row representing a borrower who applied for a loan between 2007 and 2011, containing their information.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -42,7 +46,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@anagharavishankar] - feel free to contact me!
 
 
 <!-- Optional -->
