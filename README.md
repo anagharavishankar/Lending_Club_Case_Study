@@ -19,37 +19,22 @@
 # Dataset
 > The dataset utilized is a CSV-formatted loan dataset, with each row representing a borrower who applied for a loan between 2007 and 2011, containing their information.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+    1. Borrowers with very high DTI values.
+    2. Borrowers with 10+ years of work experience.
+    3. Borrowers with a history of public recorded bankruptcy.
+    4. Borrowers with lower grades (E, F, G) indicating higher risk.
+    5. Borrowers with an annual income in the range of 50k to 100k.
+    6. Borrowers with no Verification status.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- numpy==1.24.3
+- pandas==2.0.3
+- seaborn==0.12.2
+- matplotlib==3.7.2
+- plotly==5.9.0
 
 
 ## Contact
 Created by [@anagharavishankar] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
