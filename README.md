@@ -5,7 +5,6 @@
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 # General Information
 > This is a Lending Club Case study which uses EDA techniques to forecast whether a loan is likely to be in default or not
